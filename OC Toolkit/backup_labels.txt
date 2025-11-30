@@ -1,6 +1,6 @@
 ⋯
-docked
-handheld
-retro
-stable
-test
+底座模式
+手持模式
+复古模式
+稳定模式
+测试模式
